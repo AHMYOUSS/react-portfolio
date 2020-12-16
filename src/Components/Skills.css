@@ -1,0 +1,93 @@
+
+
+.skills{
+    width: 500px;
+    margin: 60px auto;
+    color: rgb(243, 225, 225);
+}
+.skills li {
+    margin: 20px -10px;
+}
+
+.bar {
+    background: #3055a0;
+    display: block;
+    height: 10px;
+    border: none;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 18px #2187e7b3;
+}
+
+.bar span {
+    height: 10px;
+    float: left;
+    background: #2187e7;
+}
+
+.html {
+    width: 90%;
+    animation: html 2s;
+}
+.css {
+    width: 60%;
+    animation: css 2s;
+}
+
+.javaScript {
+    width: 90% ;
+    animation: javaScript 2s;
+}
+.Node {
+    width: 75%;
+    animation: Node 2s;
+}
+.php {
+    width: 70%;
+    animation: php 2s;
+}
+.react {
+    width: 75%;
+    animation: react 2s;
+}
+.symfony {
+    width: 65%;
+    animation: symfony 2s;
+}
+
+@keyframes html {
+    0%{
+        width: 0%;
+    }
+}
+@keyframes css {
+    0%{
+        width: 0%;
+    }
+}
+@keyframes javaScript {
+    0%{
+        width: 0%;
+    }
+}
+
+@keyframes Node {
+    0%{
+        width: 0%;
+    }
+}
+@keyframes php {
+    0%{
+        width: 0%;
+    }
+}
+@keyframes react {
+    0%{
+        width: 0%;
+    }
+}
+@keyframes symfony {
+    0%{
+        width: 0%;
+    }
+}

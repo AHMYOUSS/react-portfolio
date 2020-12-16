@@ -1,0 +1,19 @@
+img{
+   
+    margin-left:15px;
+    margin-right: 15px;
+ 
+    
+
+}
+
+.banner-text img {
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 60px;
+}
+
+.__image a:hover {
+    color: rgb(236, 236, 235);
+  }
